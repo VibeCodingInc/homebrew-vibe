@@ -1,6 +1,6 @@
 cask "vibe-buddy" do
-  version "0.4.1"
-  sha256 "9e83cb5e20121220d41034a2c331e2e7940ca7db25fa45ac994a9b856ddbda5d"
+  version "0.4.2"
+  sha256 "7c9aba053bd7b54cbff5bca16b054b13986055f025ab9d3aa5adddf195943166"
 
   url "https://www.slashvibe.dev/downloads/Vibe_Buddy_#{version}.dmg"
   name "Vibe Buddy"
